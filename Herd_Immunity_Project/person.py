@@ -1,57 +1,73 @@
 import random
-# TODO: Import the virus clase
+from virus import Virus
 
 class Person(object):
-    '''
-    Person objects will populate the simulation.
-
-    _____Attributes______:
-
-    _id: Int.  A unique ID assigned to each person.
-
-    is_vaccinated: Bool.  Determines whether the person object is vaccinated against
-        the disease in the simulation.
-
-    is_alive: Bool. All person objects begin alive (value set to true).  Changed
-        to false if person object dies from an infection.
-
-    infection:  None/Virus object.  Set to None for people that are not infected.
-        If a person is infected, will instead be set to the virus object the person
-        is infected with.
-
-    _____Methods_____:
-
-    __init__(self, _id, is_vaccinated, infected=False):
-        - self.alive should be automatically set to true during instantiation.
-        - all other attributes for self should be set to their corresponding parameter
-            passed during instantiation.
-        - If person is chosen to be infected for first round of simulation, then
-            the object should create a Virus object and set it as the value for
-            self.infection.  Otherwise, self.infection should be set to None.
-
-    did_survive_infection(self):
-        - Only called if infection attribute is not None.
-        - Takes no inputs.
-        - Generates a random number between 0 and 1.
-        - Compares random number to mortality_rate attribute stored in person's infection
-            attribute.
-            - If random number is smaller, person has died from disease.
-                is_alive is changed to false.
-            - If random number is larger, person has survived disease.  Person's
-            is_vaccinated attribute is changed to True, and set self.infected to None.
-    '''
-
     def __init__(self, _id, is_vaccinated, infected=None):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
-        self._id = None
-        self.is_vaccinated = None
-        self.is_alive = None
-        self.infected = None
+        self._id = _id
+        self.is_vaccinated = is_vaccinated
+        self.is_alive = True
+        self.infected = infected
 
 
-    def did_survive_infection():
-        # TODO:  Finish this method. Follow the instructions in the class documentation
-        # for resolve_infection.  If person dies, set is_alive to False and return False.
-        # If person lives, set is_vaccinated = True, infected = None, return True.  
-        pass
+    def did_survive_infection(self):
+        if self.infected is not None:
+
+            survive_val = random.random()
+            # print(survive_val, '#################################')
+
+            if survive_val < self.infected.mortality_rate:
+                self.is_alive = False
+                return False
+            elif survive_val > self.infected.mortality_rate:
+                self.is_vaccinated = True
+                self.infected = None
+                return True
+
+        else:
+            return True
+
+if __name__ == "__main__":
+    virus = Virus("HIV", 0.8, 0.3)
+
+    person1 = Person(1, False, None)
+    print(person1._id, person1.is_alive, person1.is_vaccinated, person1.infected, "-- initiated person 1!")
+    survived1 = person1.did_survive_infection()
+    print("survived1 value =", survived1)
+
+
+    person2 = Person(1, False, virus)
+    print(person2._id, person2.is_alive, person2.is_vaccinated, person2.infected, "-- initiated person 2!")
+    survived2 = person2.did_survive_infection()
+    print("survived2 value =", survived2)
+
+#pytest
+def test_did_survive_infection():
+    virus = Virus("HIV", 0.8, 0.3)
+
+    person1 = Person(1, False, None)
+    print(person1._id, person1.is_alive, person1.is_vaccinated, person1.infected, "-- initiated person 1!")
+
+    person2 = Person(2, False, virus)
+    print(person2._id, person2.is_alive, person2.is_vaccinated, person2.infected, "-- initiated person 2!")
+
+    survived1 = person1.did_survive_infection()
+    print("survived value =", survived1)
+
+    if survived1:
+        assert person1.is_alive is True
+        assert person1.is_vaccinated is False
+        assert person1.infected is None
+    else:
+        assert person1.is_alive is False
+
+    survived2 = person2.did_survive_infection()
+    print("survived value =", survived2)
+
+    if survived2:
+        assert person2.is_alive is True
+        assert person2.is_vaccinated is True
+        assert person2.infected is None
+    else:
+        assert person2.is_alive is False

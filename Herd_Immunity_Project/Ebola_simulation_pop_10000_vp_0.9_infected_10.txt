@@ -1,0 +1,259 @@
+Simulation Variables: 10000	0.9	Ebola	0.7	0.25
+P1 did not infect P5895 because P5895 is vaccinated.
+P1 did not infect P5044 because P5044 is vaccinated.
+P1 did not infect P7909 because P7909 is vaccinated.
+P1 did not infect P2701 because P2701 is vaccinated.
+P1 did not infect P5230 because P5230 is vaccinated.
+P1 did not infect P138 because P138 is vaccinated.
+P1 did not infect P653 because P653 is vaccinated.
+P1 did not infect P9193 because P9193 is vaccinated.
+P1 did not infect P5817 because P5817 is vaccinated.
+P1 did not infect P5632 because P5632 is vaccinated.
+P1 infects P3040.
+P1 did not infect P6484 because P6484 is vaccinated.
+P1 did not infect P6265 because P6265 is vaccinated.
+P1 did not infect P7184 because P7184 is vaccinated.
+P1 did not infect P7566 because P7566 is vaccinated.
+P1 did not infect P8837 because P8837 is vaccinated.
+P1 did not infect P2858 because P2858 is vaccinated.
+P1 did not infect P5965 because P5965 is vaccinated.
+P1 did not infect P9639 because P9639 is vaccinated.
+P1 did not infect P8458 because P8458 is vaccinated.
+P1 did not infect P2040 because P2040 is vaccinated.
+P1 did not infect P9978 because P9978 is vaccinated.
+P1 did not infect P6009 because P6009 is vaccinated.
+P1 did not infect P4859 because P4859 is vaccinated.
+P1 did not infect P180 because P180 is vaccinated.
+P1 did not infect P9822 because P9822 is vaccinated.
+P1 did not infect P2327 because P2327 is vaccinated.
+P1 did not infect P4303 because P4303 is vaccinated.
+P1 did not infect P8418 because P8418 is vaccinated.
+P1 did not infect P8836 because P8836 is vaccinated.
+P1 did not infect P4223 because P4223 is vaccinated.
+P1 did not infect P3150 because P3150 is vaccinated.
+P1 did not infect P3478 because P3478 is vaccinated.
+P1 did not infect P6637 because P6637 is vaccinated.
+P1 did not infect P7133 because P7133 is vaccinated.
+P1 did not infect P4491 because P4491 is vaccinated.
+P1 did not infect P9930 because P9930 is vaccinated.
+P1 did not infect P9768 because P9768 is vaccinated.
+P1 did not infect P446 because P446 is vaccinated.
+P1 did not infect P3847 because P3847 is vaccinated.
+P1 did not infect P1505 because P1505 is vaccinated.
+P1 did not infect P7979 because P7979 is vaccinated.
+P1 did not infect P2547 because P2547 is vaccinated.
+P1 did not infect P8063 because P8063 is vaccinated.
+P1 did not infect P4319 because P4319 is vaccinated.
+P1 did not infect P7825 because P7825 is vaccinated.
+P1 did not infect P511 because P511 is vaccinated.
+P1 did not infect P5733 because P5733 is vaccinated.
+P1 did not infect P4650 because P4650 is vaccinated.
+P1 did not infect P9574 because P9574 is vaccinated.
+P1 did not infect P9545 because P9545 is vaccinated.
+P1 did not infect P7976 because P7976 is vaccinated.
+P1 did not infect P517 because P517 is vaccinated.
+P1 did not infect P2253 because P2253 is vaccinated.
+P1 did not infect P4442 because P4442 is vaccinated.
+P1 did not infect P373 because P373 is vaccinated.
+P1 did not infect P5730 because P5730 is vaccinated.
+P1 did not infect P6470 because P6470 is vaccinated.
+P1 did not infect P474 because P474 is vaccinated.
+P1 did not infect P6722 because P6722 is vaccinated.
+P1 did not infect P5805 because P5805 is vaccinated.
+P1 did not infect P1052 because P1052 is vaccinated.
+P1 did not infect P2093 because P2093 is vaccinated.
+P1 did not infect P486 because P486 is vaccinated.
+P1 did not infect P1416 because P1416 is vaccinated.
+P1 did not infect P1428 because P1428 is vaccinated.
+P1 did not infect P7603 because P7603 is vaccinated.
+P1 did not infect P9735 because P9735 is vaccinated.
+P1 did not infect P6868 because P6868 is vaccinated.
+P1 did not infect P1194 because P1194 is vaccinated.
+P1 did not infect P9484 because P9484 is vaccinated.
+P1 did not infect P2990 because P2990 is vaccinated.
+P1 did not infect P1093 because P1093 is vaccinated.
+P1 did not infect P1687 because P1687 is vaccinated.
+P1 did not infect P6530 because P6530 is vaccinated.
+P1 did not infect P1194 because P1194 is vaccinated.
+P1 did not infect P4074 because P4074 is vaccinated.
+P1 did not infect P7772 because P7772 is vaccinated.
+P1 did not infect P7803 because P7803 is vaccinated.
+P1 did not infect P5087 because P5087 is vaccinated.
+P1 did not infect P3198 because P3198 is vaccinated.
+P1 did not infect P3965 because P3965 is vaccinated.
+P1 did not infect P6688 because P6688 is vaccinated.
+P1 did not infect P9551 because P9551 is vaccinated.
+P1 infects P7880.
+P1 did not infect P5113 because P5113 is vaccinated.
+P1 did not infect P28 because P28 is vaccinated.
+P1 did not infect P2289 because P2289 is vaccinated.
+P1 infects P7035.
+P1 did not infect P7071 because P7071 is vaccinated.
+P1 did not infect P9094 because P9094 is vaccinated.
+P1 did not infect P4206 because P4206 is vaccinated.
+P8 did not infect P8129 because P8129 is vaccinated.
+P8 did not infect P9495 because P9495 is vaccinated.
+P8 did not infect P5136 because P5136 is vaccinated.
+P8 did not infect P8767 because P8767 is vaccinated.
+P8 infects P3982.
+P8 did not infect P5289 because P5289 is vaccinated.
+P8 did not infect P7336 because P7336 is vaccinated.
+P8 did not infect P5163 because P5163 is vaccinated.
+P8 did not infect P7094 because P7094 is vaccinated.
+P8 did not infect P4646 because P4646 is vaccinated.
+P8 did not infect P8440 because P8440 is vaccinated.
+P8 did not infect P2343 because P2343 is vaccinated.
+P8 did not infect P9336 because P9336 is vaccinated.
+P8 did not infect P8612 because P8612 is vaccinated.
+P8 did not infect P3677 because P3677 is vaccinated.
+P8 did not infect P6415 because P6415 is vaccinated.
+P8 did not infect P2651 because P2651 is vaccinated.
+P8 did not infect P5741 because P5741 is vaccinated.
+P8 did not infect P5215 because P5215 is vaccinated.
+P8 did not infect P3749 because P3749 is vaccinated.
+P8 did not infect P261 because P261 is vaccinated.
+P8 did not infect P7803 because P7803 is vaccinated.
+P8 did not infect P6160 because P6160 is vaccinated.
+P8 did not infect P4465 because P4465 is vaccinated.
+P8 did not infect P5263 because P5263 is vaccinated.
+P8 did not infect P4757 because P4757 is vaccinated.
+P8 did not infect P7791 because P7791 is vaccinated.
+P8 did not infect P35 because P35 is vaccinated.
+P8 did not infect P3468 because P3468 is vaccinated.
+P8 did not infect P9899 because P9899 is vaccinated.
+P8 did not infect P4378 because P4378 is vaccinated.
+P8 did not infect P2488 because P2488 is vaccinated.
+P8 did not infect P1208 because P1208 is vaccinated.
+P8 did not infect P5590 because P5590 is vaccinated.
+P8 did not infect P3282 because P3282 is vaccinated.
+P8 did not infect P2361 because P2361 is vaccinated.
+P8 did not infect P8034 because P8034 is vaccinated.
+P8 did not infect P582 because P582 is vaccinated.
+P8 did not infect P2853 because P2853 is vaccinated.
+P8 infects P4084.
+P8 did not infect P9608 because P9608 is vaccinated.
+P8 did not infect P4964 because P4964 is vaccinated.
+P8 did not infect P8506 because P8506 is vaccinated.
+P8 did not infect P2651 because P2651 is vaccinated.
+P8 did not infect P2312 because P2312 is vaccinated.
+P8 did not infect P7817 because P7817 is vaccinated.
+P8 did not infect P6708 because P6708 is vaccinated.
+P8 did not infect P1999 because P1999 is vaccinated.
+P8 did not infect P3202 because P3202 is vaccinated.
+P8 infects P938.
+P8 did not infect P3577 because P3577 is vaccinated.
+P8 did not infect P6373 because P6373 is vaccinated.
+P8 did not infect P9597 because P9597 is vaccinated.
+P8 did not infect P1260 because P1260 is vaccinated.
+P8 did not infect P3683 because P3683 is vaccinated.
+P8 did not infect P2670 because P2670 is vaccinated.
+P8 did not infect P2625 because P2625 is vaccinated.
+P8 did not infect P1489 because P1489 is vaccinated.
+P8 did not infect P1577 because P1577 is vaccinated.
+P8 did not infect P3540 because P3540 is vaccinated.
+P8 did not infect P5423 because P5423 is vaccinated.
+P8 did not infect P6862 because P6862 is vaccinated.
+P8 did not infect P6958 because P6958 is vaccinated.
+P8 did not infect P4965 because P4965 is vaccinated.
+P8 did not infect P3900 because P3900 is vaccinated.
+P8 did not infect P4174 because P4174 is vaccinated.
+P8 did not infect P4529 because P4529 is vaccinated.
+P8 did not infect P4656 because P4656 is vaccinated.
+P8 did not infect P7876 because P7876 is vaccinated.
+P8 did not infect P8294 because P8294 is vaccinated.
+P8 did not infect P4182 because P4182 is vaccinated.
+P8 did not infect P1141 because P1141 is vaccinated.
+P8 did not infect P6732 because P6732 is vaccinated.
+P8 did not infect P1307 because P1307 is vaccinated.
+P8 did not infect P7680 because P7680 is vaccinated.
+P8 infects P3119.
+P8 did not infect P1516 because P1516 is vaccinated.
+P8 did not infect P474 because P474 is vaccinated.
+P8 did not infect P661 because P661 is vaccinated.
+P8 did not infect P5966 because P5966 is vaccinated.
+P8 did not infect P4326 because P4326 is vaccinated.
+P8 did not infect P3595 because P3595 is vaccinated.
+P8 did not infect P5378 because P5378 is vaccinated.
+P8 did not infect P6510 because P6510 is vaccinated.
+P8 did not infect P2606 because P2606 is vaccinated.
+P8 did not infect P6983 because P6983 is vaccinated.
+P8 did not infect P6328 because P6328 is vaccinated.
+P8 did not infect P4137 because P4137 is vaccinated.
+P8 did not infect P4131 because P4131 is vaccinated.
+P8 did not infect P3460 because P3460 is vaccinated.
+P8 did not infect P778 because P778 is vaccinated.
+P8 did not infect P9971 because P9971 is vaccinated.
+P8 did not infect P592 because P592 is vaccinated.
+P8 did not infect P4599 because P4599 is vaccinated.
+P8 did not infect P322 because P322 is vaccinated.
+P8 did not infect P6782 because P6782 is vaccinated.
+Time step 0 ended, beginning 1
+Time step 1 ended, beginning 2
+Time step 2 ended, beginning 3
+Time step 3 ended, beginning 4
+Time step 4 ended, beginning 5
+Time step 5 ended, beginning 6
+Time step 6 ended, beginning 7
+Time step 7 ended, beginning 8
+Time step 8 ended, beginning 9
+Time step 9 ended, beginning 10
+Time step 10 ended, beginning 11
+Time step 11 ended, beginning 12
+Time step 12 ended, beginning 13
+Time step 13 ended, beginning 14
+Time step 14 ended, beginning 15
+Time step 15 ended, beginning 16
+Time step 16 ended, beginning 17
+Time step 17 ended, beginning 18
+Time step 18 ended, beginning 19
+Time step 19 ended, beginning 20
+Time step 20 ended, beginning 21
+Time step 21 ended, beginning 22
+Time step 22 ended, beginning 23
+Time step 23 ended, beginning 24
+Time step 24 ended, beginning 25
+Time step 25 ended, beginning 26
+Time step 26 ended, beginning 27
+Time step 27 ended, beginning 28
+Time step 28 ended, beginning 29
+Time step 29 ended, beginning 30
+Time step 30 ended, beginning 31
+Time step 31 ended, beginning 32
+Time step 32 ended, beginning 33
+Time step 33 ended, beginning 34
+Time step 34 ended, beginning 35
+Time step 35 ended, beginning 36
+Time step 36 ended, beginning 37
+Time step 37 ended, beginning 38
+Time step 38 ended, beginning 39
+Time step 39 ended, beginning 40
+Time step 40 ended, beginning 41
+Time step 41 ended, beginning 42
+Time step 42 ended, beginning 43
+Time step 43 ended, beginning 44
+Time step 44 ended, beginning 45
+Time step 45 ended, beginning 46
+Time step 46 ended, beginning 47
+Time step 47 ended, beginning 48
+Time step 48 ended, beginning 49
+Time step 49 ended, beginning 50
+Time step 50 ended, beginning 51
+Time step 51 ended, beginning 52
+Time step 52 ended, beginning 53
+Time step 53 ended, beginning 54
+Time step 54 ended, beginning 55
+Time step 55 ended, beginning 56
+Time step 56 ended, beginning 57
+Time step 57 ended, beginning 58
+Time step 58 ended, beginning 59
+Time step 59 ended, beginning 60
+Time step 60 ended, beginning 61
+Time step 61 ended, beginning 62
+Time step 62 ended, beginning 63
+Time step 63 ended, beginning 64
+Time step 64 ended, beginning 65
+Time step 65 ended, beginning 66
+Time step 66 ended, beginning 67
+Time step 67 ended, beginning 68
+Time step 68 ended, beginning 69
+Time step 69 ended, beginning 70
